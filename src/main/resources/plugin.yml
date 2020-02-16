@@ -1,0 +1,9 @@
+name: WorldTeleporter
+main: com.blalp.worldteleporter.WorldTeleporter
+version: 1.0
+
+commands:
+  worldtp:
+   usage: /<command> [player name] <world name>
+   description: Teleports you to world
+   permission: worldteleporter.teleport
